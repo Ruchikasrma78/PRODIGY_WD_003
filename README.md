@@ -1,4 +1,4 @@
-# PRODIGY_WD_003
+# PRODIGY_WD_03
 Task 03:-Tic Tac Toe Web Application
 Description of the Project:-
 About the project-
